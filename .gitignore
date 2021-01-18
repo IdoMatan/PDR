@@ -12,3 +12,7 @@
 /data/calibration/calibration-test-2-2021-00-16_09-10-51/
 /data/calibration/orientation-test-2021-00-14_17-24-15/
 /data/calibration/static-calibration-2021-00-16_16-33-11/
+
+.idea
+__pycache__/
+
