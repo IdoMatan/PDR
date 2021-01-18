@@ -2,6 +2,11 @@ from navigation_utils import *
 
 
 # -------------------- MAIN ------------------------------------------------------------------------
+'''
+Run this script to run a dead reckoning on the data in dir_name, both with the bias and removing it (assuming you have
+calibration data for this user, otherwise just use the dir_name supplied here)
+'''
+
 
 dir_name = 'walking/inhand-28-steps-Ido'
 

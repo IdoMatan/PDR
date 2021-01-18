@@ -1,12 +1,16 @@
 # A final project in Technion course 016832 - Navigation Systems
 
+## Ido Glanz & Matan Weksler
+
+---
 ### Repo consists of 2 main scripts/algorithms
 
 1. An implementation of a PDR (Pedestrain Dead Reckoning) algorithm based on Kims' step length estimation
 2. A vanilla implementation of dead reckoning on mobile phone IMU
 
-##Installation
-pip install the `requirements.txt` file attached
+## Installation
+* Clone this repo
+* Install the `requirements.txt` file attached
 
 ## Generating/obtaining data
 * Install the [SensorLogger](https://www.tszheichoi.com/sensorlogger) app
@@ -21,3 +25,6 @@ pip install the `requirements.txt` file attached
 ## Running the Dead Reckoning algo:
 * If running your own data, change `dir_name` in `navigation_main.py` to your filename
 * Run `navigation_main.py`
+
+![picture](img/steps.png)
+
